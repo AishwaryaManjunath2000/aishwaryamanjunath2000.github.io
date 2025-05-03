@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Aishwarya Manjunath
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Western Washington University
 aliases:
   - J. Smith
   - J Smith
